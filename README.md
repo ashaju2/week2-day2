@@ -16,6 +16,7 @@ Reference: http://getbootstrap.com/getting-started/
 
 Reference: 
 - http://www.w3schools.com/tags/tag_img.asp
+- http://www.w3schools.com/css/
   
 4. Add a link styled with Bootstrap to be a button. Have the link point to your resume or LinkedIn.
 

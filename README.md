@@ -21,3 +21,9 @@ Reference:
 4. Add a link styled with Bootstrap to be a button. Have the link point to your resume or LinkedIn.
 
 Reference: http://getbootstrap.com/css/#buttons
+
+5. Create another button with the text 'Hello'. Use the jQuery click event to show an `alert` that just says 'Hello'
+
+Reference: 
+- http://www.w3schools.com/jsref/met_win_alert.asp
+- https://api.jquery.com/click/
